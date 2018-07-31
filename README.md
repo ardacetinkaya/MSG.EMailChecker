@@ -33,7 +33,10 @@ When you successfully login, the e-mail checker starts to check your e-mails for
 
 <img src="https://github.com/ardacetinkaya/MSG.EMailChecker/blob/master/PoC.PNG" width="600">
 
-Some silly info: I just listened MSG's Nightmare while I'm coding. So I changed the name as MSG... By the way, the song is amazing. :) 
+
+Some silly info: I just listened MSG's Nightmare while I'm coding. So I changed the name as MSG... By the way, the song is amazing. 
+:smile:
+:smile:
 https://www.youtube.com/watch?v=UAU9pbpH458
 
 
